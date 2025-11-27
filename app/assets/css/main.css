@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-fraunces: "Fraunces", var(--font-serif);
+  --font-cormorant: "Cormorant Garamond", var(--font-serif);
+}
