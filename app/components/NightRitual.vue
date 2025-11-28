@@ -1,12 +1,12 @@
 <template>
   <section
     id="night-ritual"
-    class="min-h-screen bg-[#33443E] px-6 py-24 flex items-center"
+    class="min-h-screen bg-[#fff7d7] px-6 py-24 flex items-center"
   >
     <div class="max-w-4xl mx-auto text-center">
       <!-- Title -->
       <h2
-        class="text-4xl font-fraunces font-semibold text-[#f4d96c] mb-6 tracking-wide"
+        class="text-4xl font-fraunces font-semibold text-[#33443E] mb-6 tracking-wide"
         data-aos="fade-down"
       >
         Pause Ritual
@@ -14,7 +14,7 @@
 
       <!-- Microcopy -->
       <p
-        class="text-lg md:text-xl text-[#f4d96c] italic mb-12 leading-relaxed font-cormorant"
+        class="text-lg md:text-xl text-[#33443E] italic mb-12 leading-relaxed font-cormorant"
         data-aos="fade-up"
         data-aos-delay="150"
       >
