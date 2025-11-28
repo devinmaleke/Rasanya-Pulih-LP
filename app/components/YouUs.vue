@@ -51,9 +51,8 @@
         data-aos="fade-up"
         data-aos-delay="200"
       >
-        The meetings ended hours ago, but the noise stayed with you. Even in the
-        stillness of your hallway, your chest feels crowded. Cities reward
-        speed— but they never teach us how to stop for a while.
+        Rasanya Pulih begins with this truth: We’re exhausted, and we don’t know
+        how to pause anymore.
       </p>
     </div>
   </section>

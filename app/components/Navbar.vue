@@ -6,17 +6,17 @@
       <ul class="flex w-full justify-between font-fraunces text-sm">
         <li>
           <a
-            href="#night-ritual"
+            href="#you-us"
             class="text-white hover:text-[#f4d96c] hover:underline transition duration-300"
-            >PAUSE RITUAL</a
+            >YOU & US</a
           >
         </li>
 
         <li>
           <a
-            href="#you-us"
+            href="#night-ritual"
             class="text-white hover:text-[#f4d96c] hover:underline transition duration-300"
-            >YOU & US</a
+            >PAUSE RITUAL</a
           >
         </li>
 
