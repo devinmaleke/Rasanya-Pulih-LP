@@ -6,6 +6,14 @@ export default defineNuxtConfig({
   modules: ["@nuxt/image", "@nuxt/ui", "@nuxt/fonts", "@nuxtjs/seo", "@nuxt/eslint"],
   css: ["./app/assets/css/main.css"],
 
+  app: {
+    head: {
+     link: [
+      { rel: 'icon', type: 'image/png', href: '/favicon-16x16.png', sizes: '16x16' }
+    ],
+    }
+  },
+
   vite: {
     plugins: [tailwindcss()],
   },
