@@ -1,8 +1,11 @@
 <template>
   <nav
-    class="fixed top-0 left-0 w-full z-50 backdrop-blur-md bg-linear-to-b from-black/40 to-black/2"
+    class="fixed top-0 left-0 w-full z-50"
   >
-    <div class="mx-auto px-4 h-20 flex items-center">
+    <div class="absolute w-full h-[110px] opacity-[0.4]">
+      <img class="w-full h-[110px]" src="/grad.png" alt="gradient-navbar"/>
+    </div>
+    <div class="relative h-[110px] mx-auto px-4 flex items-center ">
       <ul class="flex w-full justify-between font-fraunces text-sm">
         <li>
           <a
