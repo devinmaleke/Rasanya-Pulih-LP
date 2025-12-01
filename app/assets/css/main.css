@@ -3,4 +3,8 @@
 @theme {
   --font-fraunces: "Fraunces", var(--font-serif);
   --font-cormorant: "Cormorant Garamond", var(--font-serif);
+
+  --color-forest: #33433e;
+  --color-cream: #fff7d7;
+  --color-honey: #f4d96c;
 }
