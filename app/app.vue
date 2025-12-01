@@ -1,9 +1,5 @@
 <template>
-  <Navbar />
-  <Index />
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
-
-<script setup>
-import Navbar from "~/components/Navbar.vue";
-import Index from "./pages/index.vue";
-</script>

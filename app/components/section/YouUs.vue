@@ -1,24 +1,20 @@
 <template>
   <section
     id="you-us"
-    class="min-h-screen flex items-center justify-center px-6 py-24 relative bg-[#33443E]"
+    class="min-h-screen flex items-center justify-center px-6 py-24 relative bg-forest"
   >
-    <!-- Background Image -->
     <div
       class="absolute inset-0 bg-[url('/hero-rp.jpeg')] bg-cover bg-center opacity-80"
-    ></div>
-
-    <!-- Optional Soft Gradient Overlay -->
+    />
     <div
-      class="absolute inset-0 bg-gradient-to-b from-[#fff7d7]/15 to-[#fff7d7]/5"
-    ></div>
+      class="absolute inset-0 bg-linear-to-b from/cream/15 to-cream/5"
+    />
 
     <div
       class="relative max-w-3xl text-center"
       data-aos="fade-up"
       data-aos-delay="100"
     >
-      <!-- Logo -->
       <img
         src="/logox.png"
         alt="Rasanya Pulih Logo"
@@ -28,14 +24,14 @@
       />
 
       <h1
-        class="text-4xl md:text-5xl font-semibold tracking-wide mb-6 text-[#fff7d7] font-fraunces"
+        class="text-4xl md:text-5xl font-semibold tracking-wide mb-6 text-cream font-fraunces"
         data-aos="fade-down"
       >
         RASANYA PULIH
       </h1>
 
       <p
-        class="text-lg md:text-xl text-[#fff7d7] leading-relaxed font-cormorant font-regular"
+        class="text-lg md:text-xl text-cream leading-relaxed font-cormorant font-regular"
         data-aos="fade-up"
         data-aos-delay="200"
       >
@@ -47,11 +43,11 @@
       <br />
 
       <p
-        class="text-lg md:text-xl text-[#fff7d7] leading-relaxed font-cormorant font-regular"
+        class="text-lg md:text-xl text-cream leading-relaxed font-cormorant font-regular"
         data-aos="fade-up"
         data-aos-delay="200"
       >
-        Rasanya Pulih begins with this truth: We’re exhausted, and we don’t know
+        Rasanya Pulih begins with this truth: We're exhausted, and we don't know
         how to pause anymore.
       </p>
     </div>
