@@ -8,7 +8,7 @@
         class="text-4xl font-fraunces text-cream mb-8 tracking-wide"
         data-aos="fade-down"
       >
-        Let's Talk
+        RESONANCE WITH US
       </h3>
 
       <p

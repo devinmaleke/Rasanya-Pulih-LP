@@ -19,7 +19,7 @@
           <a
             href="#night-ritual"
             class="text-white hover:text-honey hover:underline transition duration-300"
-            >PAUSE RITUAL</a
+            >JEDA RITUAL</a
           >
         </li>
 
