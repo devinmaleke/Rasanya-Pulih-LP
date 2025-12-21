@@ -104,7 +104,7 @@ Let yourself to take a pause.
 
       <div class="mt-12" data-aos="fade-up" data-aos-delay="450">
         <a
-          href="https://wa.me/6281299593663?text=Halo,%20saya%20ingin%20mulai%Jeda%20Ritual."
+          href="https://wa.me/6281299593663?text=Halo,%20saya%20ingin%20mulai%20Jeda%20Ritual."
           target="_blank"
           class="inline-block px-8 py-4 rounded-full bg-forest text-cream font-fraunces text-lg shadow-lg hover:bg-[#2a3732] hover:shadow-xl transition-all"
         >
